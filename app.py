@@ -60,10 +60,10 @@ mongo = PyMongo(app)
 
 db = mongo.db
 
-collection = db['test2']
+collection = db['test21']
 
 
-collection2 = db['test3']
+collection2 = db['test31']
 
 
 UPLOAD_FOLDER = 'uploads/'
